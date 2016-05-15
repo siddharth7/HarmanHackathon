@@ -431,11 +431,11 @@ public class BleScanService extends Service implements BluetoothAdapter.LeScanCa
                 Toast.makeText(BleScanService.this, "Reached LeScan", Toast.LENGTH_SHORT).show();
                 Uri soundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_RINGTONE);
                 final Notification noti = new Notification.Builder(BleScanService.this)
-                        .setContentTitle("Wallet Stolen")
-                        .setContentText("Would you like to inform banks").setSmallIcon(R.drawable.ic_add_alert_black_24dp)
+                        .setContentTitle("You missed a bag, please check")
+                        .setContentText("Would you like to inform friends too").setSmallIcon(R.drawable.ic_add_alert_black_24dp)
                         .setSound(soundUri)
-                        .addAction(R.drawable.ic_check_black_24dp, "Yes", pIntent)
-                        .addAction(R.drawable.ic_share_black_24dp,"Share",pIntent3)
+                        .addAction(R.drawable.ic_check_black_24dp, "Yes", pIntent3)
+//                        .addAction(R.drawable.ic_share_black_24dp,"Share",pIntent3)
                         .addAction(R.drawable.ic_close_black_24dp, "No", pIntent2)
                         .build();
 
@@ -488,11 +488,11 @@ public class BleScanService extends Service implements BluetoothAdapter.LeScanCa
                 Toast.makeText(BleScanService.this, "Reached LeScan", Toast.LENGTH_SHORT).show();
                 Uri soundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_RINGTONE);
                 Notification noti = new Notification.Builder(BleScanService.this)
-                        .setContentTitle("Wallet Stolen")
-                        .setContentText("Would you like to inform banks").setSmallIcon(R.drawable.ic_add_alert_black_24dp)
+                        .setContentTitle("You missed a bag, please check")
+                        .setContentText("Would you like to inform friends too").setSmallIcon(R.drawable.ic_add_alert_black_24dp)
                         .setSound(soundUri)
-                        .addAction(R.drawable.ic_check_black_24dp, "Yes", pIntent)
-                        .addAction(R.drawable.ic_share_black_24dp,"Share",pIntent3)
+                        .addAction(R.drawable.ic_check_black_24dp, "Yes", pIntent3)
+//                        .addAction(R.drawable.ic_share_black_24dp,"Share",pIntent3)
                         .addAction(R.drawable.ic_close_black_24dp, "No", pIntent2)
                         .build();
 
