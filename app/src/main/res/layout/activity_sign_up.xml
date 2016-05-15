@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.rohantiwari.tag.SignUp"
+    android:background="@color/windowBackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true">
+
+        <EditText
+            android:layout_marginTop="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Name"
+            android:textColor="@color/primaryColorDark"
+            android:ems="10"
+            android:id="@+id/name"
+            android:layout_weight="0.00" />
+
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/primaryColorDark"
+            android:ems="10"
+            android:id="@+id/email"
+            android:hint="Email" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:textColor="@color/primaryColorDark"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:ems="10"
+            android:id="@+id/password" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:textColor="@color/primaryColorDark"
+            android:hint="Confirm Password"
+            android:ems="10"
+            android:id="@+id/password_confirm" />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_width="317dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCreate_acc"
+            android:layout_gravity="center_horizontal"
+            android:text="Create Account"
+            android:textColor="#FFFFFF"
+            android:background="@color/colorPrimary"/>
+        <TextView android:id="@+id/link_login"
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:text="Already a member? Login"
+            android:gravity="center"
+            android:textColor="@color/primaryColorDark"
+            android:textSize="16sp"
+            android:onClick="onLoginClick" />
+    </LinearLayout>
+
+</RelativeLayout>

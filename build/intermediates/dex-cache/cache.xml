@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.1.0_5ea450c41366ef782dbcc861403a694d80bf6d9b.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.1.0_fbeb2763a9f743d53f3a3576bd7b4eca30925a6c.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.1.0_5661c745c401b28bf45cb93e2ae72161c177d75f.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_cbe8c923684370b4721e2beb24b34233feef27bf.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.1.0_a4d3b641b4b0cba7ad01c60307ae9b5185476807.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_3c0b21840b26ac9c91f3a628b5fe639639a606d3.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.1.0_c3b86baf7189555d7ec474890f92b988c52e58cc.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="64380fc4876a34f3f97cc7e59ef3182543624231">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-2.3.0_4f1f545dce0f973fb2e6c4a01389db326254e7ac.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/core-3.2.0_64c72ed1a80a88a8017afad66d98c248e2e2458b.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_eaa12e107bebbeafdf15d63b49e47355e7af094a.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.1.0_963f1024bc8031065f1ec1887b3462e8e081db39.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.1.0_70e31251868f10d67430e36c8a4c832245942848.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.1.0_c4f23e6c0093f825bb34cab0ae4282fe7eaaf624.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.1_049915dae4c8dcb60c017e4935253aeb7042edb8.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_5b00a61284157d0adac8bd8a3a0138a4120f7ff5.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.1.0_22e352f5721f3230375e377bb7b6b66f17fe29a9.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.1.0_a8fe4de714f1b1de7b13602b4cd75b990a5ac4da.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_8e6d8db8c1c306c62ad9b80e079afa60d8e4f7f3.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.1.0_deba4d0e8177517f2d3e91a512dd72028f627017.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bca1d3229113cccbb9ca38c1d2e6d51be318da9e">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-integration-2.3.0_97f57fbafb4de7a666c6a7bb76911f537f9ad56b.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.1_ff2701d79db3e9739f48b28702991a1e2463b768.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.1.0_fd4067c1606ce3a1469b4f027f8d1b1e8ed56504.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.1.0_c39cb9190049661718da4d351ca3bb94c2b4a2b3.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_43b1c65a2e28b99aea4876bcda84ee46f3295715.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_1abffecf8b2a664db582fcc61fc6f50484ae3cb6.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.1_f6f217a2b2627f22ba9b04ad7c596edc6ad89cb8.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_ed3ec004319880c02a7f271646ed0aad99ad14ed.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.2.0_f729d58b9ec79b1fc444602f5c05a800036c4803.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebc00058bde4597b48ab5c3358a7676e942902f2">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.github.amlcurran.showcaseview-library-5.4.1_340758039176761f6392dcb9ff626e43efdba889.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_1425e8117466129c487dee4b7a5a20e3373c427f.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.1.0_be6de93db2fc2934df67e78677bb53da6ed6c2bf.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_72429d02c025bd7771c59291f3509cecdb555cae.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.1.0_9d6f596d06111b3bb10714c8f8bc846752ae94e4.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_d3479663a7e0dc7f7a9c55c376e1103e6ab8991a.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7a3b553d1697b52f13f8e7b7bf7ea1e20aabdbf4">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-legacy-2.3.0_9f71cb8bc4f30cfac5b03c738d64c54e80e9a7ff.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.1.0_2a70b31c0841ee3c9097a0bee2836e8fc7840994.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.1.0_ed9554a8e089945bfdd723c2cf849390856d5cfa.jar" />
+    </item>
+    <item
+        jar="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/siddharthsingh/Desktop/harman/4getmenot/TagTraqr/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_2ec82d5fdc4b722e1b4eb06ecf88ef2d88543368.jar" />
+    </item>
+
+</items>
